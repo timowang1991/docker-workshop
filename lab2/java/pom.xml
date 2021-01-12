@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.docker.workshop</groupId>
 	<artifactId>lab2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>lab2</name>
 	<description>Demo project for Spring Boot</description>
 
