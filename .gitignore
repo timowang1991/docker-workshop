@@ -9,7 +9,7 @@
 # Compiled class file
 *.class
 target/
-wrapper/
+
 
 # Log file
 *.log
