@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  who-are-you-service:
+    image: who-are-you
