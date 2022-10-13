@@ -1,5 +1,5 @@
 version: "3.6"
 
 services:
-    hello-world:
-        todo: todo
+  hello-world:
+    todo: todo
