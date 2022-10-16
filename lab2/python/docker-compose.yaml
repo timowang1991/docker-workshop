@@ -2,16 +2,4 @@ version: '3'
 
 services:
   hello-world:
-    image: python:3.9.14-alpine
-    ports:
-      - 8000:8000
-    volumes:
-      - ./:/app
-    working_dir: /app
-    command:
-      - sh
-      - -c
-      - |
-        pip install pipenv
-        pipenv install --system
-        uvicorn --host 0.0.0.0 --reload main:app
+    todo: todo
